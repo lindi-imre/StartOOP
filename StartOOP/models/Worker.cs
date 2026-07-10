@@ -9,5 +9,7 @@ namespace StartOOP.models
     internal class Worker
     {
         public string name;
+
+        public int age;
     }
 }
